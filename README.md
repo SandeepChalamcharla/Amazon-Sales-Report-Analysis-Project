@@ -32,12 +32,12 @@ The dataset contains information on:
 Order ID, Date, Status, Fulfillment Method
 Sales Channel, Product Category, Size, Quantity
 Sales Amount, Shipping Details, and more.
-Dataset Link
 
 Installation
 1)Clone this repository:
-git clone https://github.com/your-username/amazon-sales-analysis.git
-cd amazon-sales-analysis
+git clone https://github.com/SandeepChalamcharla/Amazon-Sales-Report-Analysis-Project
+
+cd Amazon-Sales-Report-Analysis-Project
 
 Install the required libraries:
   pip install -r requirements.txt
@@ -75,7 +75,9 @@ Jupyter Notebook: To document and present the analysis interactively.
 Usage:
 
 Run Analysis: Open and run the Amazon Sales Report Project File.ipynb/ notebook for step-by-step analysis.
+
 Refer to the Cleaned Dataset: The Amazon_Sale_Report_Cleaned.csv/ folder contains the preprocessed data used in the analysis.
+
 Review Findings: Open Amazon Sales Report Analysis.pdf for a detailed summary of findings, insights, and actionable recommendations.
 
 License
