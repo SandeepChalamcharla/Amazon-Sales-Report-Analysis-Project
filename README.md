@@ -37,19 +37,22 @@ Installation
 1)Clone this repository:
 git clone https://github.com/SandeepChalamcharla/Amazon-Sales-Report-Analysis-Project
 
-cd Amazon-Sales-Report-Analysis-Project
+2) cd Amazon-Sales-Report-Analysis-Project
 
-Install the required libraries:
-  pip install -r requirements.txt
+3) Install the required libraries:
+    pip install -r requirements.txt
 
-Open and run the Jupyter Notebook:
-  jupyter notebook
+4) Open and run the Jupyter Notebook:
+    jupyter notebook
   
 Project Structure:
 
 Amazon Sales Report Project File.ipynb: Jupyter Notebook with the step-by-step analysis.
+
 Amazon Sale Report.csv/: Contains the unprocessed Amazon sales data.
+
 Amazon_Sale_Report_Cleaned.csv/: Contains the cleaned dataset used for analysis.
+
 Amazon Sales Report Analysis.pdf: Summarizes key findings, Business insights, and Recommendations.
 README.md: Project documentation.
 
@@ -68,8 +71,11 @@ Regional Insights: Mapped geographical sales distribution to highlight high-pote
 Tools and Libraries Used:
 
 Python: For data analysis and manipulation.
+
 Pandas: For data cleaning, transformation, and analysis.
+
 Matplotlib & Seaborn: For generating visualizations.
+
 Jupyter Notebook: To document and present the analysis interactively.
 
 Usage:
